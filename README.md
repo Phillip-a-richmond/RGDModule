@@ -1,18 +1,16 @@
 # RareGeneticDiseaseDiagnosisModule
 An interactive website utilizing synthetic rare genetic disease scenarios to teach about the process of variant/gene prioritization in rare disease diagnosis. 
 
-
-
 ## Overview
 - Description
 - Live content
 - On-demand content
 
 ## Description
-These resources are created by Phillip Richmond (@Phillip-a-richmond), Alexandra Turvey, Lauren Caswell, and Lauren Jones. Primary cases were published alongside the simulation framework in the paper:
+These resources are created by Phillip Richmond (@Phillip-a-richmond), Alexandra Turvey, Lauren Caswell, and Lauren Jones. Primary cases were published alongside the simulation framework in the paper:  
+[GeneBreaker: Variant simulation to improve the diagnosis of Mendelian rare genetic diseases](https://onlinelibrary.wiley.com/doi/full/10.1002/humu.24163). 
 
-[GeneBreaker: Variant simulation to improve the diagnosis of Mendelian rare genetic diseases](https://onlinelibrary.wiley.com/doi/full/10.1002/humu.24163)
-Using the simulator available here:
+Using the simulator available here:  
 [GeneBreaker](http://genebreaker.cmmt.ubc.ca)
 
 The content here is relevant to both live teaching format, and on-demand content. Details for each section are given below.

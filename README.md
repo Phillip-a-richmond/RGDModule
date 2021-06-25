@@ -7,7 +7,7 @@ An interactive website utilizing synthetic rare genetic disease scenarios to tea
 - On-demand content
 
 ## Description
-These resources are created by Phillip Richmond (@Phillip-a-richmond), Alexandra Turvey, Lauren Caswell, and Lauren Jones. Primary cases were published alongside the simulation framework in the paper:  
+These resources are created by Phillip Richmond (@Phillip-a-richmond), Alexandra Turvey (@AlexTurvey), Lauren Caswell, and Lauren Jones. Primary cases were published alongside the simulation framework in the paper:  
 [GeneBreaker: Variant simulation to improve the diagnosis of Mendelian rare genetic diseases](https://onlinelibrary.wiley.com/doi/full/10.1002/humu.24163). 
 
 Using the simulator available here:  

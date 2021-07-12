@@ -27,16 +27,16 @@ Lecture is available for viewing online at:
 
 ### Case files
 Find your assigned case HTML below
-1. Case 1 - [case1link]()
-2. Case 2 - [case2link]()
-3. Case 3 - [case3link]()
-4. Case 4 - [case4link]()
-5. Case 5 - [case5link]()
-6. Case 6 - [case6link]()
-7. Case 7 - [case7link]()
-8. Case 8 - [case8link]()
-9. Case 9 - [case9link]()
-10. Case 10 - [case10link]()
+1. Case 1 - [case1link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case1_exomiser.html)
+2. Case 2 - [case2link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case2_exomiser.html)
+3. Case 3 - [case3link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case3_exomiser.html)
+4. Case 4 - [case4link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case4_exomiser.html)
+5. Case 5 - [case5link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case5_exomiser.html)
+6. Case 6 - [case6link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case6_exomiser.html)
+7. Case 7 - [case7link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case7_exomiser.html)
+8. Case 8 - [case8link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case8_exomiser.html)
+9. Case 9 - [case9link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case9_exomiser.html)
+10. Case 10 - [case10link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case10_exomiser.html)
 
 ### Slide Deck Templates
 You will copy this google slide deck template, and fill it out for your case. 

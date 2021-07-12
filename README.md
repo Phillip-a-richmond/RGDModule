@@ -27,7 +27,7 @@ Lecture is available for viewing online at:
 
 ### Case files
 Find your assigned case HTML below
-1. Case 1 - [case1link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case1_exomiser.html){:target="_blank"}
+1. Case 1 - <a href="./Case1_exomiser.html" target="_top">Case 1</a>
 2. Case 2 - [case2link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case2_exomiser.html){:target="_blank"}
 3. Case 3 - [case3link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case3_exomiser.html){:target="_blank"}
 4. Case 4 - [case4link](https://raw.githubusercontent.com/Phillip-a-richmond/RGDModule/main/Case4_exomiser.html){:target="_blank"}
